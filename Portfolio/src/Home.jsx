@@ -3,7 +3,7 @@
 function Home() {
    return (
     <div>
-        <p>Robert Orule</p>
+        <p>Robert Orule<br>Frontend Developer</br></p>
     </div>
    )
 }
